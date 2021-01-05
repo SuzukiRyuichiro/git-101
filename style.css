@@ -1,0 +1,25 @@
+body {
+	margin: 0;
+	font-family: cursive;
+}
+
+#pic {
+	width: 1000px;
+	opacity: 0.8;
+}
+
+.title {
+	color: gray;
+}
+
+.title:hover {
+	color: yellow;
+}
+
+.container {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	height: 100vh;
+	flex-direction: column;
+}
