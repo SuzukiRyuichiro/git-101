@@ -1,6 +1,7 @@
 body {
 	margin: 0;
 	font-family: sans-serif;
+	background: red;
 }
 
 #pic {
@@ -9,12 +10,12 @@ body {
 }
 
 .coming {
-	color: gray;
+	color: white;
 	font-weight: lighter;
 }
 
 .coming:hover {
-	color: yellow;
+	color: blue;
 }
 
 .container {
